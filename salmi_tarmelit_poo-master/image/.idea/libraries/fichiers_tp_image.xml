@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fichiers-tp-image">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/image.jar!/" />
+      <root url="jar://$PROJECT_DIR$/image18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

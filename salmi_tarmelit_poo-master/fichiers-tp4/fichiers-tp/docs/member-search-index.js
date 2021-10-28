@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Bike","l":"Bike(String, BikeModel)","url":"%3Cinit%3E(java.lang.String,BikeModel)"},{"p":"<Unnamed>","c":"Bike","l":"equals(Object)","url":"equals(java.lang.Object)"},{"p":"<Unnamed>","c":"Bike","l":"getId()"},{"p":"<Unnamed>","c":"Bike","l":"getModel()"},{"p":"<Unnamed>","c":"Bike","l":"toString()"}]
